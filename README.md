@@ -13,9 +13,9 @@ APP原始碼特色<br/>
 1. 使用Android原生Bluetooth API <br/>
 2. 開放原始碼Dashboard View元件 <br/>
 
-![github](https://github.com/crepperman/MiniAirBox/blob/master/img/view1.png "畫面1")
-![github](https://github.com/crepperman/MiniAirBox/blob/master/img/view2.png "畫面2")
-![github](https://github.com/crepperman/MiniAirBox/blob/master/img/view3.png "畫面3")
+![github](https://github.com/crepperman/MiniAirBox/blob/master/img/view1.png "畫面1")<br/>
+![github](https://github.com/crepperman/MiniAirBox/blob/master/img/view2.png "畫面2")<br/>
+![github](https://github.com/crepperman/MiniAirBox/blob/master/img/view3.png "畫面3")<br/>
 
 <br/>
 <br/>
