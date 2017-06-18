@@ -1,0 +1,33 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--                  com.lass.minilass.dashboard                            -->
+    <dimen name="divider_width">16dp</dimen>
+
+    <dimen name="out_indicator_size">12sp</dimen>
+
+    <!-- title_indicator_size source 17sp -->
+    <dimen name="title_indicator_size">15dp</dimen>
+    <!-- content_indicator_size source 36sp -->
+    <dimen name="content_indicator_size">20sp</dimen>
+    <!-- unit_indicator_size source 26sp -->
+    <dimen name="unit_indicator_size">20sp</dimen>
+    <dimen name="alert_indicator_size">14sp</dimen>
+
+    <dimen name="center_circle_out">20dp</dimen>
+    <dimen name="center_circle_middle">12dp</dimen>
+    <dimen name="center_circle_inside">6dp</dimen>
+
+    <!-- LineIndicator -->
+    <dimen name="line_alert_size">12sp</dimen>
+    <dimen name="line_indicator_text_size">14sp</dimen>
+
+    <!-- global -->
+
+    <dimen name="global_dimen_large">26dp</dimen>
+    <dimen name="global_dimen_normal">16dp</dimen>
+    <dimen name="global_dimen_small">8dp</dimen>
+
+</resources>

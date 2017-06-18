@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mini Airbox</string>
+    <string name="wellcome_msg">歡迎使用\nMini Airbox</string>
+    <!--  BluetoothChat -->
+
+    <string name="send">Send</string>
+
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">已配對的藍芽設備</string>
+    <string name="title_other_devices">周邊已發現的藍芽設備</string>
+
+    <string name="button_view_scan">找尋藍芽設備</string>
+
+
+    <string name="humidity_text">濕度\n</string>
+    <string name="temperature_text">溫度\n</string>
+    <string name="pm2d5_text">PM2.5\n</string>
+
+    <string name="tab1">即時環境狀態</string>
+    <string name="tab2">即時環境圖表</string>
+    <string name="tab2_1">PM2.5</string>
+    <string name="tab3">濕度</string>
+    <string name="tab4">溫度</string>
+    <string name="tab5">Co2</string>
+
+    <string name="upload_data_button">上傳資料</string>
+
+</resources>
