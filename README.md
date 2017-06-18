@@ -10,7 +10,7 @@
 本App功能還沒完善，會這在這邊同步更新App<br/>
 <br/>
 <br/>
-注意：此APP必須配合MiniAirBox才可以使用! <br/>
+注意：此App必須配合MiniAirBox硬體設備才可以使用! <br/>
 <br/>
 MiniAirBox介紹<br />
 http://www.accupass.com/go/MiniMakerpro_0606<br />
