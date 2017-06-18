@@ -8,8 +8,11 @@
 讓此APP能夠更加的茁壯!<br/>
 也希望能夠從這隻公開原始碼App，啟發與創新出新的Maker作品 ! ! <br/>
 本App功能還沒完善，會這在這邊同步更新App<br/>
-<br/>
-<br/>
+
+APP原始碼特色<br/>
+1. 使用Android原生Bluetooth API <br/>
+2. 開放原始碼Dashboard View元件 <br/>
+
 注意：此App必須配合MiniAirBox硬體設備才可以使用! <br/>
 <br/>
 MiniAirBox介紹<br />
