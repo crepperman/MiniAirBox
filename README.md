@@ -12,7 +12,8 @@
 APP原始碼特色<br/>
 1. 使用Android原生Bluetooth API <br/>
 2. 開放原始碼Dashboard View元件 <br/>
-
+<br/>
+<br/>
 注意：此App必須配合MiniAirBox硬體設備才可以使用! <br/>
 <br/>
 MiniAirBox介紹<br />
