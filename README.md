@@ -33,4 +33,4 @@ https://github.com/PhilJay/MPAndroidChart<br/>
 聯絡方式<br/>
 Wei Chen <br/>
 email:<br/>
-ns5672000@gmail.com<br/>
+exuslab@gmail.com<br/>
